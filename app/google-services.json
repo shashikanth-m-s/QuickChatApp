@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294138412374",
+    "project_id": "smschat-af85a",
+    "storage_bucket": "smschat-af85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294138412374:android:5f12c0c360d807ab3a2af7",
+        "android_client_info": {
+          "package_name": "com.smschat.smsChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294138412374-8qqnb36ideip5ji84sb0e4id60r39vmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscObKvmr6Qrg-PHew6qUCwRLX1tZaAzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294138412374-8qqnb36ideip5ji84sb0e4id60r39vmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
